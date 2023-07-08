@@ -1,6 +1,8 @@
 kill_signal = "SIGINT"
 kill_timeout = 5
 
+app = "wild-feather-425"
+
 [mounts]
   source = "vw_data"
   destination = "/data"
